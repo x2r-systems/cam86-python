@@ -1,5 +1,5 @@
 #!/bin/bash
-# build.sh - Build libcam86.so directly from libcam86.c
+# buildlib.sh - Build libcam86.so directly from libcam86.c
 
 set -e
 
